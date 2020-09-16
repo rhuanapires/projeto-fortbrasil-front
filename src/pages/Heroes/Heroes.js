@@ -4,9 +4,7 @@ import { useHistory } from 'react-router-dom';
 // Axios Config
 import instance from '../../services/AxiosConfig';
 // Styled
-import {
- Banner, Container, GridHeroes, HeroesList 
-} from './components/Styled';
+import { Banner, Container, GridHeroes, HeroesList } from './components/Styled';
 import Header from '../../components/Header';
 // Images
 import ImgBanner from '../../assets/banner.png';
@@ -55,7 +53,7 @@ function Heroes() {
     setLoading(true);
     try {
       const result = await instance.get(
-        `/characters?ts=1&apikey=${process.env.APIKEY}&hash=${process.env.HASH}&nameStartsWith=${search}&limit=40`,
+        `/characters?ts=1&apikey=${process.env.REACT_APP_APIKEY}&hash=${process.env.REACT_APP_HASH}&nameStartsWith=${search}&limit=40`
       );
       setHeroes(result.data.data.results);
       setLoading(false);
@@ -75,7 +73,7 @@ function Heroes() {
     setIsSearch(false);
     try {
       const result = await instance.get(
-        `/characters?ts=1&apikey=${process.env.REACT_APP_APIKEY}&hash=${process.env.REACT_APP_HASH}&limit=${settings.limit}&offset=${offset}`,
+        `/characters?ts=1&apikey=${process.env.REACT_APP_APIKEY}&hash=${process.env.REACT_APP_HASH}&limit=${settings.limit}&offset=${offset}`
       );
       setHeroes(result.data.data.results);
       setSettings({
