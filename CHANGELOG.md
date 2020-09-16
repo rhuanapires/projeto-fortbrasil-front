@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Alterações no botão do LinkedIn no README.md
+- Alterações no botão do LinkedIn no arquivo README.md
 
 ### Removed
 
