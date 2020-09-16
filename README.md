@@ -82,7 +82,7 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 # :raising_hand: Autora
 
 <div align="center">
- <img style="border-radius: 50%;" src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/profile%2Fprofile2.png?alt=media&token=358a70a8-a480-4169-93f5-c8cc0f7b54da" width="100px;" alt="Avatar da Autora"/>
+  [Rhuana Pires](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/profile%2Fprofile2.png?alt=media&token=70db12b3-c14b-4f50-8845-8033214a0692)
  <br />
  <sub><b>Rhuana Pires</b><br>
   Graduanda em Sistemas de Informação - Unichristus<br />
@@ -90,7 +90,7 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
   :purple_heart: UI/UX Design</sub>
 </div>
 
-Feito com :purpleheart: por **Rhuana Pires**
+Feito com :purple_heart: por **Rhuana Pires**
 
 ### Contato
 
