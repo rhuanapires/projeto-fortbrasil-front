@@ -25,10 +25,11 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Main](#main)
 - [Autora](#raising_hand-autora)
   - [Contato](#iphone-contato)
+<br>
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Floading.gif?alt=media&token=05d3f7c0-cd08-4c41-b14d-69881416e7b2" alt="Ant Man" height="150" width="150"/></div>
+</div>
 
-    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Ficon.png?alt=media&token=c2c4dfcc-faed-4c49-a865-77c6d719c53a" alt="Spider Man" height="200" width="200">
-
-  
 # :heart: Sobre
 
 List of Heroes é uma aplicação web responsiva construída consumindo a api da Marvel (https://developer.marvel.com/documentation/entity_types). Nela é possível visualizar todos os heróis da editora de quadrinhos contando com alguns detalhes!
@@ -85,6 +86,10 @@ Para a edição das imagens trabalhou-se com os programas **Adobe Illustrator** 
 ### :sparkles: Protótipo
 
 O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do projeto: https://www.figma.com/file/3pf5N1ooihXvOTWO1EBBd2/Projeto-FortBrasil-Front?node-id=32%3A6
+
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Ficon.png?alt=media&token=c2c4dfcc-faed-4c49-a865-77c6d719c53a" alt="Spider Man" height="150" width="150"/>   
+</div>
 
 # :heart: A Aplicação
 
