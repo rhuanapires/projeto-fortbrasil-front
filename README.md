@@ -25,7 +25,7 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Main](#main)
 - [Autora](#raising_hand-autora)
   - [Contato](#iphone-contato)
-<br>
+  
 <div align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Floading.gif?alt=media&token=05d3f7c0-cd08-4c41-b14d-69881416e7b2" alt="Ant Man" height="150" width="150"/></div>
 </div>
@@ -94,11 +94,22 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 # :heart: A Aplicação
 
 ### Index
+  
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FIndex.png?alt=media&token=272e850a-5544-420e-95f9-b0067c3c8014" alt="Index Screen" width="80%"/>   
+</div>
 
+  
 ### Heroes
+
+![Rhuana Pires](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FHeroes.png?alt=media&token=7b9474be-c6d3-4d63-b0ff-a59a2fc519cd)
 
 ### Details
 
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FDetails.png?alt=media&token=6e4a1a62-0679-43c4-94ee-ba99637706ac" alt="Details Screen" width="80%"/>   
+</div>
+  
 # :raising_hand: Autora
 
 <div align="center">
