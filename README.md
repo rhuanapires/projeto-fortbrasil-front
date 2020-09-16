@@ -32,7 +32,7 @@ But I'm the only one who's gonna save your life"</i><br>
 
 # :heart: Sobre
 
-List of Heroes é uma aplicação web responsiva construída consumindo a api da Marvel (https://developer.marvel.com/documentation/entity_types). Nela é possível visualizar todos os heróis da editora de quadrinhos contando com alguns detalhes!
+List of Heroes é uma aplicação web responsiva construída consumindo a api da Marvel (https://developer.marvel.com/docs). Nela é possível visualizar todos os heróis da editora de quadrinhos contando com alguns detalhes!
 A aplicação web foi construída utilizando a biblioteca **React JS**.
 
 # :floppy_disk: Instalação
