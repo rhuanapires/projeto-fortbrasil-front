@@ -19,6 +19,7 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Imagens](#art-imagens)
   - [Protótipo](#sparkles-protótipo)
 - [Tecnologias](#computer-tecnologias)
+- [Autora](#raising-hand-autora)
 
 # :heart: Sobre
 
@@ -77,4 +78,21 @@ Para a edição das imagens trabalhou-se com os programas **Adobe Illustrator** 
 
 O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do projeto: https://www.figma.com/file/3pf5N1ooihXvOTWO1EBBd2/Projeto-FortBrasil-Front?node-id=32%3A6
 
-> > > > > > > 3d917e1644d59e29bd51e5b284e51b0658d27308
+
+# :raising_hand: Autora
+
+<div align="center">
+ <img style="border-radius: 50%;" src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/profile%2Fprofile2.png?alt=media&token=358a70a8-a480-4169-93f5-c8cc0f7b54da" width="100px;" alt="Avatar da Autora"/>
+ <br />
+ <sub><b>Rhuana Pires</b><br>
+  Graduanda em Sistemas de Informação - Unichristus<br />
+  :purple_heart: Mobile Development<br />
+  :purple_heart: UI/UX Design</sub>
+</div>
+
+Feito com :purpleheart: por **Rhuana Pires**
+
+### Contato
+
+[![Twitter Badge](https://img.shields.io/badge/-@rhuanapires-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rhuanapires)](https://twitter.com/rhuanapires) [![Linkedin Badge](https://img.shields.io/badge/-Rhuana%20Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuanapires/)](https://www.linkedin.com/in/rhuanapires/) 
+[![Gmail Badge](https://img.shields.io/badge/-rhuanapires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhuanapires@gmail.com)](mailto:rhuanapires@gmail.com)
