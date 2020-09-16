@@ -19,7 +19,8 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Imagens](#art-imagens)
   - [Protótipo](#sparkles-protótipo)
 - [Tecnologias](#computer-tecnologias)
-- [Autora](#raising-hand-autora)
+- [Autora](#raising_hand-autora)
+  - [Contato](#iphone-contato)
 
 # :heart: Sobre
 
@@ -82,17 +83,19 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 # :raising_hand: Autora
 
 <div align="center">
-  [Rhuana Pires](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/profile%2Fprofile2.png?alt=media&token=70db12b3-c14b-4f50-8845-8033214a0692)
+  
+  ![Rhuana Pires](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/profile%2Fprofile2.png?alt=media&token=70db12b3-c14b-4f50-8845-8033214a0692)
+  
  <br />
  <sub><b>Rhuana Pires</b><br>
   Graduanda em Sistemas de Informação - Unichristus<br />
   :purple_heart: Mobile Development<br />
   :purple_heart: UI/UX Design</sub>
+  <br/><br/>
+  Feito com :purple_heart: por **Rhuana Pires**
 </div>
 
-Feito com :purple_heart: por **Rhuana Pires**
-
-### Contato
+### :iphone: Contato
 
 [![Twitter Badge](https://img.shields.io/badge/-@rhuanapires-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rhuanapires)](https://twitter.com/rhuanapires) [![Linkedin Badge](https://img.shields.io/badge/-Rhuana%20Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuanapires/)](https://www.linkedin.com/in/rhuanapires/) 
 [![Gmail Badge](https://img.shields.io/badge/-rhuanapires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhuanapires@gmail.com)](mailto:rhuanapires@gmail.com)
