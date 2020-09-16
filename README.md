@@ -19,9 +19,16 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Imagens](#art-imagens)
   - [Protótipo](#sparkles-protótipo)
 - [Tecnologias](#computer-tecnologias)
+- [A Aplicação](#:a-aplicacao)
+  - [Index](#index)
+  - [Heroes](#heroes)
+  - [Main](#main)
 - [Autora](#raising_hand-autora)
   - [Contato](#iphone-contato)
 
+    <img align="center" src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Ficon.png?alt=media&token=c2c4dfcc-faed-4c49-a865-77c6d719c53a" alt="Spider Man" height="200" width="200">
+
+  
 # :heart: Sobre
 
 List of Heroes é uma aplicação web responsiva construída consumindo a api da Marvel (https://developer.marvel.com/documentation/entity_types). Nela é possível visualizar todos os heróis da editora de quadrinhos contando com alguns detalhes!
@@ -79,6 +86,13 @@ Para a edição das imagens trabalhou-se com os programas **Adobe Illustrator** 
 
 O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do projeto: https://www.figma.com/file/3pf5N1ooihXvOTWO1EBBd2/Projeto-FortBrasil-Front?node-id=32%3A6
 
+# :heart: A Aplicação
+
+### Index
+
+### Heroes
+
+### Details
 
 # :raising_hand: Autora
 
