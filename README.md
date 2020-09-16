@@ -96,20 +96,20 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 ### Index
   
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FIndex.png?alt=media&token=272e850a-5544-420e-95f9-b0067c3c8014" alt="Index Screen" width="80%"/>   
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FIndex.png?alt=media&token=272e850a-5544-420e-95f9-b0067c3c8014" alt="Index Screen"/>   
 </div>
 
   
 ### Heroes
 
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FHeroes.png?alt=media&token=f41766e8-c1ff-4a83-8360-52d8a2cb7886" alt="Details Screen" width="80%"/>   
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FHeroes.png?alt=media&token=f41766e8-c1ff-4a83-8360-52d8a2cb7886" alt="Details Screen"/>   
 </div>
 
 ### Details
 
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FDetails.png?alt=media&token=5716bb55-1b05-440c-a90d-4b46a2f46a85" alt="Details Screen" width="80%"/>   
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FDetails.png?alt=media&token=5716bb55-1b05-440c-a90d-4b46a2f46a85" alt="Details Screen"/>   
 </div>
   
 # :raising_hand: Autora
@@ -124,7 +124,9 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
   :purple_heart: Mobile Development<br />
   :purple_heart: UI/UX Design</sub>
   <br/><br/>
+  
   Feito com :purple_heart: por **Rhuana Pires**
+  
 </div>
 
 ### :iphone: Contato
