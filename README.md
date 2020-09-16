@@ -102,12 +102,14 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
   
 ### Heroes
 
-![Rhuana Pires](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FHeroes.png?alt=media&token=7b9474be-c6d3-4d63-b0ff-a59a2fc519cd)
+<div align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FHeroes.png?alt=media&token=f41766e8-c1ff-4a83-8360-52d8a2cb7886" alt="Details Screen" width="80%"/>   
+</div>
 
 ### Details
 
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FDetails.png?alt=media&token=6e4a1a62-0679-43c4-94ee-ba99637706ac" alt="Details Screen" width="80%"/>   
+<img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/screens%2FDetails.png?alt=media&token=5716bb55-1b05-440c-a90d-4b46a2f46a85" alt="Details Screen" width="80%"/>   
 </div>
   
 # :raising_hand: Autora
