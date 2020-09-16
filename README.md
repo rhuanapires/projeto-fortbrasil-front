@@ -132,7 +132,7 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 
 <div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-@rhuanapires-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rhuanapires)](https://twitter.com/rhuanapires) [![Linkedin Badge](https://img.shields.io/badge/-Rhuana%20Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuana-pires/)](https://www.linkedin.com/in/rhuanapires/)
+[![Twitter Badge](https://img.shields.io/badge/-@rhuanapires-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rhuanapires)](https://twitter.com/rhuanapires) [![Linkedin Badge](https://img.shields.io/badge/-Rhuana%20Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuana-pires/)](https://www.linkedin.com/in/rhuana-pires/)
 [![Gmail Badge](https://img.shields.io/badge/-rhuanapires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhuanapires@gmail.com)](mailto:rhuanapires@gmail.com) [![Github Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Github&logoColor=white&labelColor=000000&https://rhuanapires.github.io)](https://rhuanapires.github.io)
 
 </div>
