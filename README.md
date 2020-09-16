@@ -19,10 +19,10 @@ But I'm the only one who's gonna save your life"</i><br>
   - [Imagens](#art-imagens)
   - [Protótipo](#sparkles-protótipo)
 - [Tecnologias](#computer-tecnologias)
-- [A Aplicação](#:a-aplicacao)
+- [A Aplicação](#star-aplicação)
   - [Index](#index)
   - [Heroes](#heroes)
-  - [Main](#main)
+  - [Details](#details)
 - [Autora](#raising_hand-autora)
   - [Contato](#iphone-contato)
   
@@ -91,7 +91,7 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 <img src="https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Ficon.png?alt=media&token=c2c4dfcc-faed-4c49-a865-77c6d719c53a" alt="Spider Man" height="150" width="150"/>   
 </div>
 
-# :heart: A Aplicação
+# :star: Aplicação
 
 ### Index
   
@@ -131,5 +131,9 @@ O protótipo de alta fidelidade foi confeccionado no **Figma**. Segue o link do 
 
 ### :iphone: Contato
 
+<div align="center">
+
 [![Twitter Badge](https://img.shields.io/badge/-@rhuanapires-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rhuanapires)](https://twitter.com/rhuanapires) [![Linkedin Badge](https://img.shields.io/badge/-Rhuana%20Pires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuanapires/)](https://www.linkedin.com/in/rhuanapires/) 
-[![Gmail Badge](https://img.shields.io/badge/-rhuanapires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhuanapires@gmail.com)](mailto:rhuanapires@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rhuanapires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhuanapires@gmail.com)](mailto:rhuanapires@gmail.com) [![Github Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Github&logoColor=white&labelColor=000000&https://rhuanapires.github.io)](https://rhuanapires.github.io)
+
+</div>
