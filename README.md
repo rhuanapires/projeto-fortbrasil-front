@@ -1,11 +1,8 @@
 ![List of Heroes](https://firebasestorage.googleapis.com/v0/b/testefortbrasil.appspot.com/o/images%2Fminilogo.png?alt=media&token=b227a6ba-7356-47c2-8915-b692fb223075)
 
-<p style="text-align: center; text-height: italic"><i>I'm your wakeup call<br>
-And you know I'm right<br>
-So make a move<br>
-Let it bleed<br>
+<div align="center"><i>
 Tear your heart off your sleeve<br>
-But I'm the only one who's gonna save your life</i><br></p>
+But I'm the only one who's gonna save your life</i><br></div>
 
 [I'm Alive - Avengers Assemble Soundtrack](https://www.youtube.com/watch?v=5Uxti1ELAkA)
 
